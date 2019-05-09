@@ -1,4 +1,6 @@
 package com.threejie.SpringBootDemo.Controller;
 
-public class Alive {
+
+
+public class AliveController {
 }
